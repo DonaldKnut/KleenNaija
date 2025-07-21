@@ -136,7 +136,9 @@ export default function ServicesSection() {
 
         {/* CTA */}
         <div className="mt-20 text-center">
-          <h2 className="text-3xl font-bold mb-6">Don't See What You Need?</h2>
+          <h2 className="text-3xl font-bold mb-6">
+            Don&apos;t See What You Need?
+          </h2>
           <p className="text-xl text-[#e8f4e8] mb-8 max-w-2xl mx-auto">
             We customize cleaning solutions for any space — just ask!
           </p>

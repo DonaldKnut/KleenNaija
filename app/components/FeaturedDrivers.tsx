@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Sparkles, ShieldCheck, Leaf, Star } from "lucide-react";
+import { Sparkles, Star } from "lucide-react";
 
 type Cleaner = {
   id: string;

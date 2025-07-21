@@ -12,7 +12,7 @@ export default function AboutSection() {
           </h1>
           <div className="w-24 h-1 bg-[#6db52c] mx-auto mb-6"></div>
           <p className="text-xl text-[#e8f4e8] max-w-3xl mx-auto">
-            Since 2015, we've been setting new standards in professional
+            Since 2015, we&apos;ve been setting new standards in professional
             cleaning services across Lagos and beyond.
           </p>
         </div>
@@ -32,9 +32,9 @@ export default function AboutSection() {
             <p className="text-[#e8f4e8] mb-4">
               Founded by Pastor Ifeanyi Ojugo after noticing the lack of
               standardized cleaning services in Nigeria, KleenNaija began as a
-              small team of 5 passionate professionals. Today, we're a family of
-              200+ certified cleaners serving over 3,000 satisfied clients
-              monthly.
+              small team of 5 passionate professionals. Today, we&apos;re a
+              family of 200+ certified cleaners serving over 3,000 satisfied
+              clients monthly.
             </p>
             <p className="text-[#e8f4e8] mb-6">
               What sets us apart is our Nigerian-made approach — combining

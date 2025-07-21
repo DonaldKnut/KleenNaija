@@ -21,8 +21,8 @@ export default function GetQuoteSection() {
           </h2>
           <div className="w-20 h-1 bg-[#6db52c] mx-auto"></div>
           <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
-            Complete this form and we'll provide a tailored cleaning solution
-            for your needs
+            Complete this form and we&apos;ll provide a tailored cleaning
+            solution for your needs
           </p>
         </div>
 
